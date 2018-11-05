@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_formulario_ok" type="id" />
+    <item name="formulario_nome" type="id" />
+    <item name="formulario_endereco" type="id" />
+    <item name="formulario_telefone" type="id" />
+    <item name="formulario_site" type="id" />
+    <item name="formulario_nota" type="id" />
+</resources>
